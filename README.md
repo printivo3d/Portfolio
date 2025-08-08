@@ -124,6 +124,7 @@ This scaffold includes a comprehensive set of modern web development tools:
 - **Type Safety**: End-to-end TypeScript with Zod validation
 - **Essential Hooks**: 100+ useful React hooks with ReactUse for common patterns
 
+https://raw.githubusercontent.com/printivo3d/Portfolio/refs/heads/main/examples/websocket/11.png
 ## 🤝
 
 1. **Clone this scaffold** to jumpstart your project
